@@ -1,5 +1,6 @@
 # Shlok Naik - Portfolio
 
+
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/shlok00/Portfolio/static.yml)
 ![GitHub](https://img.shields.io/github/license/shlok00/portfolio?color=gold)
 
@@ -17,4 +18,4 @@
 This is a simple static website made with HTML, CSS and Vanilla JS to showcase my resume and experience.
 
 
-&copy; Shlok Naik
+&copy; - Shlok Naik
