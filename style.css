@@ -17,6 +17,23 @@
       }
 
       /*helpers*/
+      .resume{
+        padding: 15px;
+        margin-bottom: 20px;
+        background: transparent;
+        color: red;
+        border-top-right-radius: 20px;
+        border-bottom-right-radius: 20px;
+        border-top-left-radius: 20px;
+        border-bottom-left-radius: 20px;
+        border: 2px solid red;
+
+      }
+
+
+      .resume:hover{
+        background: black;
+      }
 
       .liner{
         border-bottom: 3px solid #ba0c0c;
@@ -37,7 +54,7 @@
 
        .profilepic{
         width: 200px;
-        height: 190px;
+        height: 210px;
         border-radius: 50%;
         border: 5px solid rgb(238, 31, 31);
         margin-right: 50px;
